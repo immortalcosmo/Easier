@@ -1,6 +1,6 @@
 Projects and Tools
 
-For viewing and learning
+For viewing and learning. Click links to view Notebooks in nbviewer.
 
 [WuxiaWorld books to pdf][1] 
 
