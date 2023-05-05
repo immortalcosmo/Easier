@@ -1,6 +1,6 @@
 Projects and Tools
 
-Scrapes webnovel sites and downloads all chapters into an easy to read offline pdf.
+Scrapes the webnovel site WuxiaWorld for a specific book and downloads all chapters into an easy to read offline pdf.
 
 [WuxiaWorld books to pdf][1] 
 
